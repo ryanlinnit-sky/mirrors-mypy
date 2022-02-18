@@ -6,4 +6,5 @@
     args: ["--ignore-missing-imports", "--scripts-are-modules"]
     require_serial: true
     additional_dependencies: []
+    pass_filenames: false
     minimum_pre_commit_version: '2.9.2'
